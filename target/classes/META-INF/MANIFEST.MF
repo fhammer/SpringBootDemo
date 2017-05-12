@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: PlaySpring
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: fuzh2
+Implementation-Vendor-Id: com.play.boot
+Build-Jdk: 1.8.0_45
+Implementation-URL: http://projects.spring.io/spring-boot/PlaySpring/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
