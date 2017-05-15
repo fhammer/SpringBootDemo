@@ -23,8 +23,8 @@ public class UserMapperTest {
 	// 每次执行Test之前先删除表，创建表
 	@Before
 	public void before() throws Exception {
-		userMapper.dropTable();
-		userMapper.createTable();
+//		userMapper.dropTable();
+//		userMapper.createTable();
 	}
 
 	// 打印出class com.sun.proxy.$Proxy66表示spring注入通过jdk动态代理获取接口的子类

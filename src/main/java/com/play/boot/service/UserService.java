@@ -14,7 +14,7 @@ public class UserService {
 	UserMapper userMapper;
 
 	public void initTable() {
-		userMapper.createTable();
+//		userMapper.createTable();
 	}
 
 	public User save(String name, int age) {
